@@ -1,0 +1,45 @@
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\egork\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\egork\OneDrive\Рабочий стол\Курсовик ОП\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
